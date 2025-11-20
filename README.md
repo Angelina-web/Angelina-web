@@ -57,6 +57,7 @@ Role: Scrum Master + Frontend Developer
 <p align="center">
   <img src="img/clothica.png" alt="Clothica Shop screenshot" width="400"/>
 </p>
+
 ---
 
 ### 📌 **Game Website** — HTML • CSS • JavaScript
@@ -108,6 +109,7 @@ Role: Frontend Developer
 <p align="center">
   <img src="img/yachtjet.png" alt="Rent Yacht screenshot" width="400"/>
 </p>
+
 ---
 
 ### 📌 **WebStudio** — HTML • CSS • JavaScript
