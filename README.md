@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Anhelina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Full+Stack+Developer" alt="Typing SVG" />
 </p>
-
 ---
 
 ## About Me
 
 I’m a Junior Full Stack Developer with a strong foundation in both frontend and backend development — and a unique background in accounting that sharpened my precision and problem-solving mindset.
-
 I enjoy building functional, clean, and user-friendly products using **React**, **Next.js**, **Node.js**, and modern tools.  
 I'm continuously improving my skills and looking for opportunities to contribute, grow, and create meaningful digital experiences.
 
@@ -46,29 +44,7 @@ I'm continuously improving my skills and looking for opportunities to contribute
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angelina-web&show_icons=true&theme=radical" height="170" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelina-web&theme=radical" />
-</p>
-
----
-
 ## Projects
-
-### 📌 **Note Hub** — Next.js • REST API • Auth
-
-A secure note-taking application with authentication, protected routes, and full CRUD functionality.  
-Focused on clean structure, reliable backend logic, and smooth user experience.
-Role: Frontend Developer
-🔗 https://github.com/Angelina-web/09-auth
-
-<p align="center">
-  <img src="img/note-hub.png" alt="Note Hub screenshot" width="400"/>
-</p>
-
----
 
 ### 📌 **Clothica Shop** — Next.js • Node.js • Zustand • React Query
 
@@ -79,6 +55,18 @@ Role: Scrum Master + Frontend Developer
 
 <p align="center">
   <img src="img/clothica.png" alt="Clothica Shop screenshot" width="400"/>
+</p>
+---
+
+### 📌 **Game Website** — HTML • CSS • JavaScript
+
+Interactive landing page with smooth animations and gamified UX.  
+Responsible for UI/UX logic and core functionality.
+Role: Team Lead + Frontend Developer
+🔗 https://github.com/Angelina-web/stp-10193
+
+<p align="center">
+  <img src="img/game.png" alt="Game Website screenshot" width="400"/>
 </p>
 
 ---
@@ -96,15 +84,15 @@ Role: Frontend Developer
 
 ---
 
-### 📌 **Game Website** — HTML • CSS • JavaScript
+### 📌 **Note Hub** — Next.js • REST API • Auth
 
-Interactive landing page with smooth animations and gamified UX.  
-Responsible for UI/UX logic and core functionality.
-Role: Team Lead + Frontend Developer
-🔗 https://github.com/Angelina-web/stp-10193
+A secure note-taking application with authentication, protected routes, and full CRUD functionality.  
+Focused on clean structure, reliable backend logic, and smooth user experience.
+Role: Frontend Developer
+🔗 https://github.com/Angelina-web/09-auth
 
 <p align="center">
-  <img src="img/game.png" alt="Game Website screenshot" width="400"/>
+  <img src="img/note-hub.png" alt="Note Hub screenshot" width="400"/>
 </p>
 
 ---
