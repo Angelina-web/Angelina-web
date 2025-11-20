@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Anhelina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full+Stack+Developer" alt="Typing SVG" />
 </p>
+
 ---
 
 ## About Me
