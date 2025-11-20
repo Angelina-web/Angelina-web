@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Anhelina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A3FF&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/0Z5LFMG/tech-grid-banner.png" alt="Tech Grid Banner" width="100%" />
-</p>
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I’m a Junior Full Stack Developer with a strong foundation in both frontend and backend development — and a unique background in accounting that sharpened my precision and problem-solving mindset.
 
@@ -49,16 +46,16 @@ I'm continuously improving my skills and looking for opportunities to contribute
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angelina-web&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelina-web&layout=compact&theme=radical" height="170" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelina-web&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 📌 **Note Hub** — Next.js • REST API • Auth
 
@@ -68,7 +65,7 @@ Role: Frontend Developer
 🔗 https://github.com/Angelina-web/09-auth
 
 <p align="center">
-  <img src="img/note-hub.png" alt="Note Hub screenshot" width="250"/>
+  <img src="img/note-hub.png" alt="Note Hub screenshot" width="400"/>
 </p>
 
 ---
@@ -81,7 +78,7 @@ Role: Scrum Master + Frontend Developer
 🔗 https://github.com/Angelina-web/clothica-shop
 
 <p align="center">
-  <img src="img/clothica.png" alt="Clothica Shop screenshot" width="250"/>
+  <img src="img/clothica.png" alt="Clothica Shop screenshot" width="400"/>
 </p>
 
 ---
@@ -94,7 +91,7 @@ Role: Frontend Developer
 🔗 https://github.com/Angelina-web/js-booksy-project-12
 
 <p align="center">
-  <img src="img/booksy.png" alt="Book Shop screenshot" width="250"/>
+  <img src="img/booksy.png" alt="Book Shop screenshot" width="400"/>
 </p>
 
 ---
@@ -107,7 +104,7 @@ Role: Team Lead + Frontend Developer
 🔗 https://github.com/Angelina-web/stp-10193
 
 <p align="center">
-  <img src="img/game.png" alt="Game Website screenshot" width="250"/>
+  <img src="img/game.png" alt="Game Website screenshot" width="400"/>
 </p>
 
 ---
@@ -120,7 +117,7 @@ Role: Frontend Developer
 🔗 https://github.com/Angelina-web/project-group17
 
 <p align="center">
-  <img src="img/yachtjet.png" alt="Rent Yacht screenshot" width="250"/>
+  <img src="img/yachtjet.png" alt="Rent Yacht screenshot" width="400"/>
 </p>
 ---
 
@@ -132,7 +129,7 @@ Role: Frontend Developer
 🔗 https://github.com/Angelina-web/goit-markup-hw-06
 
 <p align="center">
-  <img src="img/webstudio.png" alt="WebStudio screenshot" width="250"/>
+  <img src="img/webstudio.png" alt="WebStudio screenshot" width="400"/>
 </p>
 
 ---
