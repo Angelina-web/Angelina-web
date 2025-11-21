@@ -69,6 +69,7 @@ This is a **one-page presentation website** for a mobile game. The website showc
 It includes multiple sections like Game Overview, Gameplay Features, How to Play, Character Encounters, Gallery, Download button, FAQ, Contact, and Cookies Policy.  
 Additional pages include **Privacy Policy**, **Terms & Conditions**, and **Cookies Policy**.  
 The project is built with **vanilla JavaScript, HTML, and CSS**, following a **mobile-first approach** to ensure a smooth experience across **mobile, tablet, and desktop**.
+
 🔗 https://github.com/Angelina-web/stp-10193
 
 <p align="center">
@@ -82,6 +83,7 @@ The project is built with **vanilla JavaScript, HTML, and CSS**, following a **m
 This is a **one-page online bookstore website** designed to browse, explore, and purchase books easily.  
 The project uses **npm for JS build** and integrates several useful libraries for a smooth user experience.  
 It follows a **mobile-first approach**, ensuring usability on **mobile, tablet, and desktop** devices.
+
 🔗 https://github.com/Angelina-web/js-booksy-project-12
 
 <p align="center">
@@ -95,6 +97,7 @@ It follows a **mobile-first approach**, ensuring usability on **mobile, tablet, 
 This is a **multi-page web application** for creating, editing, and managing notes.  
 Key functionalities include **authentication and authorization**, sorting notes by category, and searching notes efficiently.  
 The project is **deployed on Vercel** and built with **Next.js and React**, following a **responsive design** approach for mobile, tablet, and desktop devices.
+
 🔗 https://github.com/Angelina-web/09-auth
 
 <p align="center">
@@ -108,6 +111,7 @@ The project is **deployed on Vercel** and built with **Next.js and React**, foll
 This is a **one-page website** for yacht rental services. The site allows users to explore available yachts, view rental options, and easily get in touch for bookings.  
 It is designed with a **mobile-first approach**, ensuring smooth usability across **mobile, tablet, and desktop** devices.  
 The project is built using **vanilla JavaScript, HTML, and CSS**.
+
 🔗 https://github.com/Angelina-web/project-group17
 
 <p align="center">
@@ -120,6 +124,7 @@ The project is built using **vanilla JavaScript, HTML, and CSS**.
 
 This is a clean and modern **one-page presentation website** developed to showcase a company, its team, portfolio, and contact information. The website includes a call-to-action button for ordering the service.  
 The project follows a **mobile-first approach**, ensuring smooth usability across all devices — **mobile, tablet, and desktop**.
+
 🔗 https://github.com/Angelina-web/goit-markup-hw-06
 
 <p align="center">
