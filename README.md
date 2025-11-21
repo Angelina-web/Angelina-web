@@ -49,9 +49,12 @@ I'm continuously improving my skills and looking for opportunities to contribute
 
 ### 📌 **Clothica Shop** — Next.js • Node.js • Zustand • React Query
 
-A full e-commerce platform with dynamic catalog, filtering, form validation, theme switching, and UI animations.
-Integrated backend API and built advanced state management for seamless user flow.
-Role: Scrum Master + Frontend Developer
+A full-featured e-commerce platform with a dynamic catalog, advanced filtering, form validation, theme switching, and smooth UI animations.
+Integrated with a backend API and implemented robust state management for a seamless user experience.
+This is a multi-page website for browsing and purchasing clothing items.
+Key functionalities include user authentication and authorization, category sorting, an admin panel, a "scroll to top" button, and password recovery via Telegram.
+The project is deployed on Vercel and built with Next.js and React, following a responsive design optimized for mobile, tablet, and desktop devices.
+
 🔗 https://github.com/Angelina-web/clothica-shop
 
 <p align="center">
@@ -62,9 +65,10 @@ Role: Scrum Master + Frontend Developer
 
 ### 📌 **Game Website** — HTML • CSS • JavaScript
 
-Interactive landing page with smooth animations and gamified UX.  
-Responsible for UI/UX logic and core functionality.
-Role: Team Lead + Frontend Developer
+This is a **one-page presentation website** for a mobile game. The website showcases all essential game information, features, and media, providing a fully interactive experience for users.  
+It includes multiple sections like Game Overview, Gameplay Features, How to Play, Character Encounters, Gallery, Download button, FAQ, Contact, and Cookies Policy.  
+Additional pages include **Privacy Policy**, **Terms & Conditions**, and **Cookies Policy**.  
+The project is built with **vanilla JavaScript, HTML, and CSS**, following a **mobile-first approach** to ensure a smooth experience across **mobile, tablet, and desktop**.
 🔗 https://github.com/Angelina-web/stp-10193
 
 <p align="center">
@@ -75,9 +79,9 @@ Role: Team Lead + Frontend Developer
 
 ### 📌 **Book Shop** — HTML • CSS • JS
 
-Developed a responsive online bookstore as a frontend developer.  
-Implemented search, adaptive UI, and coordinated team workflow.
-Role: Frontend Developer
+This is a **one-page online bookstore website** designed to browse, explore, and purchase books easily.  
+The project uses **npm for JS build** and integrates several useful libraries for a smooth user experience.  
+It follows a **mobile-first approach**, ensuring usability on **mobile, tablet, and desktop** devices.
 🔗 https://github.com/Angelina-web/js-booksy-project-12
 
 <p align="center">
@@ -88,9 +92,9 @@ Role: Frontend Developer
 
 ### 📌 **Note Hub** — Next.js • REST API • Auth
 
-A secure note-taking application with authentication, protected routes, and full CRUD functionality.  
-Focused on clean structure, reliable backend logic, and smooth user experience.
-Role: Frontend Developer
+This is a **multi-page web application** for creating, editing, and managing notes.  
+Key functionalities include **authentication and authorization**, sorting notes by category, and searching notes efficiently.  
+The project is **deployed on Vercel** and built with **Next.js and React**, following a **responsive design** approach for mobile, tablet, and desktop devices.
 🔗 https://github.com/Angelina-web/09-auth
 
 <p align="center">
@@ -101,9 +105,9 @@ Role: Frontend Developer
 
 ### 📌 **Rent Yacht** — HTML • CSS • JavaScript
 
-Modern landing page with booking form, adaptive layout, and polished UI.  
-Focused on accessibility and clean visual structure.  
-Role: Frontend Developer
+This is a **one-page website** for yacht rental services. The site allows users to explore available yachts, view rental options, and easily get in touch for bookings.  
+It is designed with a **mobile-first approach**, ensuring smooth usability across **mobile, tablet, and desktop** devices.  
+The project is built using **vanilla JavaScript, HTML, and CSS**.
 🔗 https://github.com/Angelina-web/project-group17
 
 <p align="center">
@@ -114,9 +118,8 @@ Role: Frontend Developer
 
 ### 📌 **WebStudio** — HTML • CSS • JavaScript
 
-Corporate multipage site with consistent design, animations, and optimized layout.  
-Improved code structure and UI quality.  
-Role: Frontend Developer
+This is a clean and modern **one-page presentation website** developed to showcase a company, its team, portfolio, and contact information. The website includes a call-to-action button for ordering the service.  
+The project follows a **mobile-first approach**, ensuring smooth usability across all devices — **mobile, tablet, and desktop**.
 🔗 https://github.com/Angelina-web/goit-markup-hw-06
 
 <p align="center">
